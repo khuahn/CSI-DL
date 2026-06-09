@@ -21,7 +21,7 @@ All files download to the same folder as the executable.
 - OR download and extract `pscp.exe` to the same folder
 
 ## Build from Source
-Python, Bat, Putty  (64-bit, Console mode, Current directory)
+Python, Bat, OpenSSH, Putty  (64-bit, Console mode, Current directory)
 
 ## Download
 [Download Latest Release](https://github.com/khuahn/CSI-DL/releases)
