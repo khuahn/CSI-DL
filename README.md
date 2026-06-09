@@ -17,7 +17,7 @@ All files download to the same folder as the executable.
 
 ## Requirements
 - Windows 10 or later (OpenSSH client installed)
-- OR download and extract `pscp.exe` to the same folder
+- OR download and extract `pscp.exe` to the same folder (optional)
 
 ## Build from Source
 Python, Bat, OpenSSH, Putty  (64-bit, Console mode, Current directory)
