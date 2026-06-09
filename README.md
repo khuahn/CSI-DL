@@ -8,7 +8,7 @@ One-click SFTP downloader for CS Insights data.
 - Recursively downloads all files and folders
 
 ## Usage
-1. Double-click `CSI-Downloader.exe`
+1. Double-click `CSI-DL.exe`
 2. Enter your SFTP username
 3. When Notepad opens, paste your private key and save
 4. Wait for "Files were downloaded successfully!"
