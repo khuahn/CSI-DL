@@ -1,12 +1,11 @@
 # CSI-DL - CS Insights SFTP Downloader
 
-One-click SFTP downloader for Chartswap Insights data.
+One-click SFTP downloader for CS Insights data.
 
 ## Features
 - No command line required
 - Auto-creates key.txt if missing
 - Recursively downloads all files and folders
-- Converts to single EXE for easy distribution
 
 ## Usage
 1. Double-click `CSI-Downloader.exe`
