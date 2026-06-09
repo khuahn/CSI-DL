@@ -28,7 +28,7 @@ Python, Bat, OpenSSH, Putty  (64-bit, Console mode, Current directory)
 ## License
 The MIT License (MIT)
 
-Copyright (c) <year> Adam Veldhousen
+Copyright (c)2026 Khuahn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
