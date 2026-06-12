@@ -35,6 +35,10 @@ All files download to the same folder as the executable.
 
 [Download Latest Release](https://github.com/khuahn/CSI-DL/releases/latest)
 
+## Disclaimer
+
+CSI-DL is an unofficial third-party tool. It is not affiliated with, endorsed by, or associated with Chartswap Insights in any way. This tool simply provides a graphical interface for connecting to SFTP servers using credentials provided to the user. Users are responsible for ensuring their use complies with all applicable terms of service.
+
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
