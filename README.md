@@ -37,7 +37,7 @@ All files download to the same folder as the executable.
 
 ## Disclaimer
 
-CSI-DL is an unofficial third-party tool. It is not affiliated with, endorsed by, or associated with Chartswap Insights in any way. This tool simply provides a graphical interface for connecting to SFTP servers using credentials provided to the user. Users are responsible for ensuring their use complies with all applicable terms of service.
+CSI-DL is an unofficial third-party tool created for ease of use. It is not affiliated with, endorsed by, or associated with Chartswap Insights in any way. This tool simply provides a simplified graphical interface for connecting to SFTP servers using credentials provided to the user, eliminating the complexity of general-purpose FTP applications like FileZilla, WinSCP or CyberDuck etc. Users are responsible for ensuring their use complies with all applicable terms of service.
 
 ## License
 
