@@ -2,7 +2,9 @@
 
 One-click SFTP downloader for Chartswap Insights data. Now with a modern GUI.
 
-![Screenshot](CSI1.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khuahn/CSI-DL/main/CSI1.jpg" alt="Screenshot" />
+</div>
 
 ## Features
 
