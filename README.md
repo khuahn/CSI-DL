@@ -30,11 +30,12 @@ One-click SFTP downloader for Chartswap Insights data. Now with a modern GUI.
 
 ## Requirements
 
-- Windows 10 or later (OpenSSH client included by default)
-- OR download and extract pscp.exe to the same folder (optional)
+- Windows 10 and Windows 11 compatible.
+- No external dependencies required (OpenSSH/SFTP/.NET Framework 4.8 embedded by default)
+- OPTIONAL: Downlaod PSCP.exe. Only if things doesn't work
 
 **Build from Source**
-- PowerShell, Bat, OpenSSH, Putty (64-bit, Console mode, Current directory)
+- PowerShell, VBScript, OpenSSH, Putty (64-bit, Auto CMD Console)
 
 ## Download
 
