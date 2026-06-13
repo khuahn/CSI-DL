@@ -2,6 +2,8 @@
 
 One-click SFTP downloader for Chartswap Insights data. Now with a modern GUI.
 
+![Screenshot](CSI1.jpg)
+
 ## Features
 
 - **Graphical User Interface** — No command line needed
