@@ -11,12 +11,13 @@ One-click SFTP downloader for Chartswap Insights data. Now with a modern GUI.
 ## Features
 
 - **Graphical User Interface** — No command line needed
-- **Built-in Key Editor** — Paste and save your private key directly in the app
-- **Username Input Field** — Enter your SFTP username in the GUI
-- **Visual Status** — Button shows Downloading / Download Complete at a glance
+- **Built-in Key Editor** — Paste and save your private key directly in the app with confirmation feedback
+- **Username Persistence** — SFTP username saved and auto-filled on next launch
+- **Visual Status** — Buttons show Downloading / Download Complete / Key Updated at a glance
 - **Compact Progress Window** — See download progress in real-time
 - **Custom Download Path** — Choose where files are saved, app remembers your preference
-- **Auto-Open Folder** — Download folder opens automatically when done
+- **Show in Folder** — Optional checkbox to auto-open the download folder when done
+- **Centralized Config** — Settings and key stored in Documents, no clutter around the EXE
 - **Portable** — Single EXE file, works from any folder
 
 ## Usage
@@ -24,9 +25,10 @@ One-click SFTP downloader for Chartswap Insights data. Now with a modern GUI.
 1. Double-click `CSI-DL.exe`
 2. Click **UPDATE PRIVATE KEY** and paste your private key, then save
 3. Enter your **SFTP username**
-4. Optionally, set a **Download Path** (defaults to Downloads folder)
-5. Click **START DOWNLOAD**
-6. Close the progress window when done — your files are ready
+4. Optionally, set a **Download Path** (defaults to `Downloads\CSIDL`)
+5. Check **Show in folder when done** if you want the folder to open automatically
+6. Click **START DOWNLOAD**
+7. Close the progress window when done — your files are ready
 
 ## Requirements
 
