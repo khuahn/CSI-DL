@@ -2,23 +2,25 @@
 
 # CSI-DL - Chartswap Insights SFTP Downloader
 
-**SFTP downloader for Chartswap Insights data. Now with a modern GUI.**
+**Enhanced UI/UX SFTP downloader for Chartswap Insights**
 
 <img src="https://raw.githubusercontent.com/khuahn/CSI-DL/main/CSI1.jpg" alt="Screenshot" />
 
 </div>
 
 ## Features
+Focused on usability: enhanced UI/UX, clear feedback, and portable convenience.
 
-- **Graphical User Interface** — No command line needed
-- **Built-in Key Editor** — Paste and save your private key directly in the app with confirmation feedback
-- **Username Persistence** — SFTP username saved and auto-filled on next launch
-- **Visual Status** — Buttons show Downloading / Download Complete / Key Updated at a glance
-- **Compact Progress Window** — See download progress in real-time
-- **Custom Download Path** — Choose where files are saved, app remembers your preference
-- **Show in Folder** — Optional checkbox to auto-open the download folder when done
-- **Centralized Config** — Settings and key stored in Documents, no clutter around the EXE
-- **Portable** — Single EXE file, works from any folder
+- **Graphical User Interface** — No command line required  
+- **Built‑in Key Editor** — Paste and save private key with confirmation  
+- **Username Persistence** — Auto‑fills saved SFTP username on launch  
+- **Visual Status** — Buttons indicate Downloading / Complete / Key Updated  
+- **Compact Progress Window** — Real‑time download progress display  
+- **Custom Download Path** — Choose save location, app remembers preference  
+- **Show in Folder** — Optional auto‑open of download folder after completion  
+- **Centralized Config** — Settings and key stored in Documents, no clutter near EXE  
+- **Portable** — Single EXE, runs from any folder  
+
 
 ## Usage
 
@@ -32,9 +34,9 @@
 
 ## Requirements
 
-- Windows 10 and Windows 11 compatible.
+- Windows 10 and Windows 11 compatible
 - No external dependencies required (OpenSSH/SFTP/.NET Framework 4.8 embedded by default)
-- OPTIONAL: Downlaod PSFTP.exe or PSCP.exe. Only if things doesn't work
+- OPTIONAL: Run `Install-Module -Name Posh-SSH` in PowerShell if the app fails. (RARE)
 
 **Build from Source**
 - PowerShell, VBScript, OpenSSH, Putty (64-bit, Auto CMD Console)
