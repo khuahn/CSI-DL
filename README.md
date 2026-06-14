@@ -9,26 +9,26 @@
 </div>
 
 ## Features
-- **Graphical User Interface** — No command line required  
-- **Built‑in Key Editor** — Paste and save private key with confirmation  
-- **Username Persistence** — Auto‑fills saved SFTP username on launch  
-- **Visual Status** — Buttons indicate Downloading / Complete / Key Updated  
-- **Compact Progress Window** — Real‑time download progress display  
-- **Custom Download Path** — Choose save location, app remembers preference  
-- **Show in Folder** — Optional auto‑open of download folder after completion  
-- **Centralized Config** — Settings and key stored in Documents, no clutter near EXE  
-- **Portable** — Single EXE, runs from any folder  
 
+- **Graphical User Interface** — No command line required
+- **Built-in Key Editor** — Paste and save private key with confirmation
+- **Username Persistence** — Auto-fills saved SFTP username on launch
+- **Visual Status** — Buttons indicate Downloading / Complete / Key Updated
+- **Compact Progress Window** — Real-time download progress display
+- **Custom Download Path** — Choose save location, app remembers preference
+- **Show in Folder** — Optional auto-open of download folder after completion
+- **Installer** — Single setup file, installs per-user with Desktop shortcut, no admin required
 
 ## Usage
 
-1. Double-click `CSI-DL.exe`
-2. Click **UPDATE PRIVATE KEY** and paste your private key, then save
-3. Enter your **SFTP username**
-4. Optionally, set a **Download Path** (defaults to `Downloads\CSIDL`)
-5. Check **Show in folder when done** if you want the folder to open automatically
-6. Click **START DOWNLOAD**
-7. Close the progress window when done — your files are ready
+1. Download and run `CSI-DL-Setup.exe`
+2. Launch **CSI-DL** from the Desktop shortcut
+3. Click **UPDATE PRIVATE KEY** and paste your private key, then save
+4. Enter your **SFTP username**
+5. Optionally, set a **Download Path** (defaults to `Downloads\CSIDL`)
+6. Check **Show in folder when done** if you want the folder to open automatically
+7. Click **START DOWNLOAD**
+8. Close the progress window when done — your files are ready
 
 ## Requirements
 
