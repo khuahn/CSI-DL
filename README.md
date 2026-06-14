@@ -9,8 +9,6 @@
 </div>
 
 ## Features
-Focused on usability: enhanced UI/UX, clear feedback, and portable convenience.
-
 - **Graphical User Interface** — No command line required  
 - **Built‑in Key Editor** — Paste and save private key with confirmation  
 - **Username Persistence** — Auto‑fills saved SFTP username on launch  
