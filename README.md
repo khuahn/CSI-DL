@@ -40,7 +40,7 @@
 - PowerShell, VBScript, OpenSSH, Putty (64-bit, Auto CMD Console)
 
 ## DOWNLOAD
-**[CSI-DL v1.8 Stable Release](https://github.com/khuahn/CSI-DL/releases/latest)**
+**[CSI-DL v1.8 - Stable Release](https://github.com/khuahn/CSI-DL/releases/latest)**
 
 ## Disclaimer
 
