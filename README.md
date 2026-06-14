@@ -41,9 +41,8 @@ Focused on usability: enhanced UI/UX, clear feedback, and portable convenience.
 **Build from Source**
 - PowerShell, VBScript, OpenSSH, Putty (64-bit, Auto CMD Console)
 
-## Download
-
-[Download Latest Release](https://github.com/khuahn/CSI-DL/releases/latest)
+## DOWNLOAD
+**[CSI-DL v1.8 Stable Release](https://github.com/khuahn/CSI-DL/releases/latest)**
 
 ## Disclaimer
 
