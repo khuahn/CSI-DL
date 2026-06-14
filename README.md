@@ -2,7 +2,7 @@
 
 # CSI-DL - Chartswap Insights SFTP Downloader
 
-One-click SFTP downloader for Chartswap Insights data. Now with a modern GUI.
+**SFTP downloader for Chartswap Insights data. Now with a modern GUI.**
 
 <img src="https://raw.githubusercontent.com/khuahn/CSI-DL/main/CSI1.jpg" alt="Screenshot" />
 
