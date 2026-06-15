@@ -48,7 +48,7 @@
 2. Click **Run anyway**
 3. The app will install/run normally
 
-Use the Portable version if the Installer is flagged/blocked  by SmartScreen or  Defender.
+Use the `Portable` version if the `Installer` is flagged/blocked  by SmartScreen or  Defender.
 It’s a false positive and a known issue with applications compiled using Inno Setup or NSIS.
 VirusTotal results: [67 of 71 vendors marked the file clean](https://www.virustotal.com/gui/file/385eb99f6c6a2ba1c039294f6a86a6e7a6a8066ac2cde74e52baf9cdc6758657).
 
