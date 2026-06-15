@@ -17,7 +17,8 @@
 - **Compact Progress Window** — Real-time download progress display
 - **Custom Download Path** — Choose save location, app remembers preference
 - **Show in Folder** — Optional auto-open of download folder after completion
-- **Installer** — Single setup file, installs per-user with Desktop shortcut, no admin required
+- **Installer & Portable** — Full installer with Desktop shortcut, or standalone portable version
+- **No Admin Required** — Installs and runs without administrator privileges
 
 ## Usage
 
@@ -32,7 +33,7 @@
 
 ## Requirements
 
-- Windows 10 and Windows 11 compatible
+- Compatible for both Windows 10/11, x86 or x64
 - No external dependencies required (OpenSSH/SFTP/.NET Framework 4.8 embedded by default)
 - OPTIONAL: Run `Install-Module -Name Posh-SSH` in PowerShell if the app fails. (RARE)
 
