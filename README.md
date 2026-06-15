@@ -46,7 +46,7 @@
 **If you see a SmartScreen or Defender warning:**
 1. Click **More info**
 2. Click **Run anyway**
-3. The app will install normally
+3. The app will install/run normally
 
 Use the Portable version if the Installer is flagged/blocked  by SmartScreen or  Defender.
 It’s a false positive and a known issue with applications compiled using Inno Setup or NSIS.
