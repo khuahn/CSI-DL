@@ -40,10 +40,9 @@
 **Build from Source**
 - PowerShell, VBScript, OpenSSH, Putty (64-bit, Auto CMD Console)
 
-## ⬇️DOWNLOAD
-**[CSI-DL v1.8.1 - Stable Release](https://github.com/khuahn/CSI-DL/releases/latest)**
+## ⏬ DOWNLOAD: **[<ins>CSI-DL — Latest Release</ins>](https://github.com/khuahn/CSI-DL/releases)**
 
-### ⚠️IMPORTANT!
+### ⚠️ IMPORTANT!
 **If you see a SmartScreen or Defender warning:**
 1. Click **More info**
 2. Click **Run anyway**
