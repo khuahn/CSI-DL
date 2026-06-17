@@ -42,17 +42,6 @@
 
 ## ⏬ DOWNLOAD: **[<ins>CSI-DL — Latest Release</ins>](https://github.com/khuahn/CSI-DL/releases)**
 
-### ⚠️ IMPORTANT!
-**If you see a SmartScreen or Defender warning:**
-1. Click **More info**
-2. Click **Run anyway**
-3. The app will install/run normally
-
-Use the `Portable` version if the `Installer` is flagged/blocked  by SmartScreen or  Defender.
-It’s a false positive and a known issue with applications compiled using Inno Setup or NSIS.
-VirusTotal results: [67 of 71 vendors marked the file clean](https://www.virustotal.com/gui/file/385eb99f6c6a2ba1c039294f6a86a6e7a6a8066ac2cde74e52baf9cdc6758657).
-
-
 ## Disclaimer
 
 CSI-DL is an unofficial, non-commercial third-party tool created for ease of use. It is not affiliated with, endorsed by, or associated with Chartswap Insights in any way. This tool simply provides a simplified graphical interface for connecting to SFTP servers using credentials provided to the user, eliminating the complexity of general-purpose FTP applications like FileZilla, CyberDuck or WinSCP etc. This project is not monetized and generates no revenue. Users are responsible for ensuring their use complies with all applicable terms of service.
