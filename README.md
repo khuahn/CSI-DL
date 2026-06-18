@@ -22,7 +22,7 @@
 
 ## Usage
 
-1. Download and run `CSI-DL-Setup.exe`
+1. Download and run `CSI-DL-Installer.exe`
 2. Launch **CSI-DL** from the Desktop shortcut
 3. Click **UPDATE PRIVATE KEY** and paste your private key, then save
 4. Enter your **SFTP username**
