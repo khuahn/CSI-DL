@@ -4,7 +4,7 @@
 
 **Enhanced UI/UX SFTP downloader for Chartswap Insights**
 
-<img src="https://raw.githubusercontent.com/khuahn/CSI-DL/main/CSI1.jpg" alt="Screenshot" />
+<img src="https://raw.githubusercontent.com/khuahn/CSI-DL/main/CSI.jpg" alt="Screenshot" />
 
 </div>
 
