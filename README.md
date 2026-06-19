@@ -11,22 +11,21 @@
 ## Features
 
 - **Graphical User Interface** — No command line required
-- **Built-in Key Editor** — Paste and save private key with confirmation
-- **Username Persistence** — Auto-fills saved SFTP username on launch
-- **Visual Status** — Buttons indicate Downloading / Complete / Key Updated
+- **Direct Key Input** — Paste your private key right on the main screen, no popups or extra buttons
+- **Session-Based Credentials** — Username and key stay active while the app is open, cleared on close for security
 - **Compact Progress Window** — Real-time download progress display
-- **Custom Download Path** — Choose save location, app remembers preference
+- **Custom Download Path** — Choose save location, app remembers your preference
 - **Show in Folder** — Optional auto-open of download folder after completion
 - **Installer & Portable** — Full installer with Desktop shortcut, or standalone portable version
 - **No Admin Required** — Installs and runs without administrator privileges
 
 ## Usage
 
-1. Download and run `CSI-DL-Installer.exe`
+1. Download and run `CSI-DL_Installer.exe`
 2. Launch **CSI-DL** from the Desktop shortcut
-3. Click **UPDATE PRIVATE KEY** and paste your private key, then save
-4. Enter your **SFTP username**
-5. Optionally, set a **Download Path** (defaults to `Downloads\CSIDL`)
+3. Paste your **private key** directly into the "Paste private key here..." field
+4. Enter your **SFTP username** in the "Enter SFTP username..." field
+5. Optionally, set a **Download Path** (defaults to `Downloads\CS-Insights\`)
 6. Check **Show in folder when done** if you want the folder to open automatically
 7. Click **START DOWNLOAD**
 8. Close the progress window when done — your files are ready
