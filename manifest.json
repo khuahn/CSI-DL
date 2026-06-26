@@ -1,0 +1,9 @@
+{
+  "name": "Task Tracker",
+  "short_name": "Tasks",
+  "start_url": "https://jac.rf.gd/task/index.php",
+  "display": "standalone",
+  "background_color": "#EEEEEE",
+  "theme_color": "#2C3E50",
+  "icons": []
+}
