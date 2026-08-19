@@ -41,7 +41,7 @@
 
 ## ⏬ DOWNLOAD: **[<ins>CSI-DL — Latest Release</ins>](https://github.com/khuahn/CSI-DL/releases)**
 
-**Donate: <a href="https://paypal.me/khuahn">Buy Me a Coffee!</a>**
+**Donate:** [Buy Me a Coffee!](https://paypal.me/khuahn)
 
 ## Disclaimer
 
