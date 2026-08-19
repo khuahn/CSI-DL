@@ -41,6 +41,9 @@
 
 ## ⏬ DOWNLOAD: **[<ins>CSI-DL — Latest Release</ins>](https://github.com/khuahn/CSI-DL/releases)**
 
+**Paypal: [Buy me a coffee](https://paypal.me/khuahn)**
+
+
 ## Disclaimer
 
 CSI-DL is an unofficial, non-commercial third-party tool created for ease of use. It is not affiliated with, endorsed by, or associated with Chartswap Insights in any way. This tool simply provides a simplified graphical interface for connecting to SFTP servers using credentials provided to the user, eliminating the complexity of general-purpose FTP applications like FileZilla, CyberDuck or WinSCP etc. This project is not monetized and generates no revenue. Users are responsible for ensuring their use complies with all applicable terms of service.
